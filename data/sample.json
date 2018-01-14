@@ -1,0 +1,35 @@
+{
+  "length": 1024,
+  "slices": [
+    {
+      "start": 0,
+      "length": 64,
+      "id": 1
+    },
+    {
+      "start": 64,
+      "length": 64,
+      "id": 2
+    },
+    {
+      "start": 128,
+      "length": 128,
+      "id": 1
+    },
+    {
+      "start": 256,
+      "length": 32,
+      "id": 3
+    },
+    {
+      "start": 512,
+      "length": 32,
+      "id": 1
+    },
+    {
+      "start": 544,
+      "length": 64,
+      "id": 3
+    }
+  ]
+}
